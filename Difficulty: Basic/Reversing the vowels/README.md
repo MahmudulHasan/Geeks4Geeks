@@ -1,0 +1,14 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/reversing-the-vowels5304/1?page=3&difficulty=School&sortBy=submissions">Reversing the vowels</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p style="font-family: Nunito, Bangla105, sans-serif;"><span style="font-size: 18px; font-family: Nunito, Bangla105, sans-serif;">Given a string consisting of lowercase English alphabets, reverse only the vowels present in it and print the resulting string.</span></p>
+<p style="font-family: Nunito, Bangla105, sans-serif;"><span style="font-size: 18px; font-family: Nunito, Bangla105, sans-serif;"><strong style="font-family: &quot;Source Sans 3&quot;, Bangla105, sans-serif;">Examples:</strong></span></p>
+<pre style="font-family: Nunito, Bangla105, sans-serif;"><span style="font-size: 18px; font-family: Nunito, Bangla105, sans-serif;"><strong style="font-family: &quot;Source Sans 3&quot;, Bangla105, sans-serif;">Input: </strong>s = "geeksforgeeks"
+<strong style="font-family: &quot;Source Sans 3&quot;, Bangla105, sans-serif;">Output:</strong> "geeksforgeeks"
+<strong style="font-family: &quot;Source Sans 3&quot;, Bangla105, sans-serif;">Explanation</strong>: The vowels are: e, e, o, e, e. Reverse of these is also e, e, o, e, e.</span>
+</pre>
+<pre style="font-family: Nunito, Bangla105, sans-serif;"><span style="font-size: 18px; font-family: Nunito, Bangla105, sans-serif;"><strong style="font-family: &quot;Source Sans 3&quot;, Bangla105, sans-serif;">Input</strong>: s = "practice"
+<strong style="font-family: &quot;Source Sans 3&quot;, Bangla105, sans-serif;">Output:</strong> "prectica"
+<strong style="font-family: &quot;Source Sans 3&quot;, Bangla105, sans-serif;">Explanation</strong>: The vowels are a, i, e. Reverse of these is e, i, a.</span>
+</pre>
+<pre style="font-family: Nunito, Bangla105, sans-serif;"><span style="font-size: 18px; font-family: Nunito, Bangla105, sans-serif;"><strong style="font-family: &quot;Source Sans 3&quot;, Bangla105, sans-serif;">Input</strong>: s = "bcdfg"
+<strong style="font-family: &quot;Source Sans 3&quot;, Bangla105, sans-serif;">Output:</strong> "bcdfg"
+<strong style="font-family: &quot;Source Sans 3&quot;, Bangla105, sans-serif;">Explanation</strong>: There are no vowels in s.</span></pre>
+<p style="font-family: Nunito, Bangla105, sans-serif;"><span style="font-size: 18px; font-family: Nunito, Bangla105, sans-serif;"><strong style="font-family: &quot;Source Sans 3&quot;, Bangla105, sans-serif;">Constraints:</strong><br style="font-family: Nunito, Bangla105, sans-serif;">1&lt;=|s|&lt;=10<sup style="font-family: Nunito, Bangla105, sans-serif;">5</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Zoho</code>&nbsp;<code>Flipkart</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Strings</code>&nbsp;<code>Data Structures</code>&nbsp;
