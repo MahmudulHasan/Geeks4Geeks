@@ -1,0 +1,19 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/consecutive-elements2306/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card">Remove Consecutive Characters</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p style="font-family: Nunito, Bangla899, sans-serif;"><span style="font-size: 14pt; font-family: Nunito, Bangla899, sans-serif;">You are given a string <strong style="font-family: &quot;Source Sans 3&quot;, Bangla899, sans-serif;">s</strong>, consisting of lowercase alphabets. Your task is to remove consecutive duplicate characters from the string.&nbsp;</span></p>
+<p style="font-family: Nunito, Bangla899, sans-serif;"><span style="font-size: 14pt; font-family: Nunito, Bangla899, sans-serif;"><strong style="font-family: &quot;Source Sans 3&quot;, Bangla899, sans-serif;">Example:</strong></span></p>
+<pre style="font-family: Nunito, Bangla899, sans-serif;"><span style="font-size: 14pt; font-family: Nunito, Bangla899, sans-serif;"><strong style="font-family: &quot;Source Sans 3&quot;, Bangla899, sans-serif;">Input: </strong>s = "aabb"
+<strong style="font-family: &quot;Source Sans 3&quot;, Bangla899, sans-serif;">Output:  "</strong>ab" 
+<strong style="font-family: &quot;Source Sans 3&quot;, Bangla899, sans-serif;">Explanation:</strong> <br style="font-family: Nunito, Bangla899, sans-serif;">The character 'a' at index 2 is the same as 'a' at index 1, so it is removed.
+Similarly, the character 'b' at index 4 is the same as 'b' at index 3, so it is removed.
+The final string is "ab".
+</span></pre>
+<pre style="font-family: Nunito, Bangla899, sans-serif;"><span style="font-size: 14pt; font-family: Nunito, Bangla899, sans-serif;"><strong style="font-family: &quot;Source Sans 3&quot;, Bangla899, sans-serif;">Input:</strong>s = "aabaa"
+<strong style="font-family: &quot;Source Sans 3&quot;, Bangla899, sans-serif;">Output: </strong>"aba"
+<strong style="font-family: &quot;Source Sans 3&quot;, Bangla899, sans-serif;">Explanation:</strong> <br style="font-family: Nunito, Bangla899, sans-serif;">The character 'a' at index 2 is the same as 'a' at index 1, so it is removed.
+The character 'a' at index 5 is the same as 'a' at index 4, so it is removed.
+The final string is "aba".</span></pre>
+<pre style="font-family: Nunito, Bangla899, sans-serif;"><span style="font-size: 14pt; font-family: Nunito, Bangla899, sans-serif;"><strong style="font-family: &quot;Source Sans 3&quot;, Bangla899, sans-serif;">Input: </strong>s = "abcddcba"
+<strong style="font-family: &quot;Source Sans 3&quot;, Bangla899, sans-serif;">Output: </strong>"abcdcba"
+<strong style="font-family: &quot;Source Sans 3&quot;, Bangla899, sans-serif;">Explanation:</strong> <br style="font-family: Nunito, Bangla899, sans-serif;">The character 'd' at index 5 is the same as 'd' at index 4, so it is removed.
+No other consecutive duplicates exist.
+The final string is "abcdcba".</span></pre>
+<p style="font-family: Nunito, Bangla899, sans-serif;"><span style="font-size: 14pt; font-family: Nunito, Bangla899, sans-serif;"><strong style="font-family: &quot;Source Sans 3&quot;, Bangla899, sans-serif;">Constraints:</strong><br style="font-family: Nunito, Bangla899, sans-serif;">1 ≤ n ≤</span><span style="font-size: 14pt; font-family: Nunito, Bangla899, sans-serif;">&nbsp;10<sup style="font-family: Nunito, Bangla899, sans-serif;">6</sup><br style="font-family: Nunito, Bangla899, sans-serif;">All characters in the string are lowercase English alphabets.</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Strings</code>&nbsp;<code>Data Structures</code>&nbsp;
